@@ -1,6 +1,6 @@
-# 🌊 Satellite Flood Risk Assessment System
+#  Satellite Flood Risk Assessment System
 
-## 📌 Overview
+##  Overview
 
 This project presents a Satellite-Based Flood Risk Assessment System using Deep Learning and Transfer Learning.  
 The system analyzes satellite imagery to detect surface water presence and estimates potential flood risk levels.
@@ -9,14 +9,14 @@ It uses a ResNet18 model trained on satellite image data to classify regions as 
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 Hugging Face Deployment:  
 (Add your Hugging Face Space link here)
 
 ---
 
-## 🛰 Dataset
+##  Dataset
 
 Dataset Used: **EuroSAT – Sentinel-2 Satellite Images**
 
@@ -34,7 +34,7 @@ Dataset Size: ~1.3GB
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 We use **Transfer Learning with ResNet18**:
 
@@ -46,7 +46,7 @@ We use **Transfer Learning with ResNet18**:
 
 ---
 
-## 📊 Training Strategy
+##  Training Strategy
 
 - 80% Training Split
 - 20% Validation Split
@@ -55,7 +55,7 @@ We use **Transfer Learning with ResNet18**:
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 The model is evaluated using:
 
@@ -70,7 +70,7 @@ Validation Accuracy Achieved:
 
 ---
 
-## 🌊 Flood Risk Logic
+##  Flood Risk Logic
 
 The system converts water detection probability into flood risk levels:
 
@@ -85,7 +85,7 @@ This allows interpretable decision-making rather than raw classification output.
 
 ---
 
-## 🖥 Application Interface
+##  Application Interface
 
 The project includes a Streamlit web application:
 
@@ -97,4 +97,4 @@ The project includes a Streamlit web application:
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
